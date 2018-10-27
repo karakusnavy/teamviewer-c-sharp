@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Server, Configuration: Debug Any CPU ------
+2>------ Build started: Project: Client, Configuration: Debug Any CPU ------
+1>C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Server\frmServerAnaform.cs(176,30,176,53): warning CS0618: 'Dns.GetHostByName(string)' is obsolete: 'GetHostByName is obsoleted for this type, please use GetHostEntry instead. http://go.microsoft.com/fwlink/?linkid=14202'
+1>  Server -> C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Server\bin\Debug\Server.exe
+2>C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\frmKarsiPc.cs(28,30,28,53): warning CS0618: 'Dns.GetHostByName(string)' is obsolete: 'GetHostByName is obsoleted for this type, please use GetHostEntry instead. http://go.microsoft.com/fwlink/?linkid=14202'
+2>  Client -> C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\bin\Debug\Client.exe
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

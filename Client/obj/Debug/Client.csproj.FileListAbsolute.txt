@@ -1,0 +1,30 @@
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\bin\Debug\Client.exe
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\bin\Debug\Client.pdb
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.frmClientAnaform.resources
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.frmKarsiPc.resources
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.exe
+C:\Users\Osman\Desktop\Yazılım\C#\Teamviewer Yapımı\Client\obj\Debug\Client.pdb
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\bin\Debug\Client.exe
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\bin\Debug\Client.pdb
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.frmClientAnaform.resources
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.frmKarsiPc.resources
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.exe
+C:\Users\Samed\AppData\Roaming\Skype\My Skype Received Files\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.pdb
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.exe
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.pdb
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\bin\Debug\Client.exe
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\bin\Debug\Client.pdb
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\ResolveAssemblyReference.cache
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.frmClientAnaform.resources
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.frmKarsiPc.resources
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\ \Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.exe
+F:\ \Teamviewer Yapımı\Teamviewer Yapımı\Client\obj\Debug\Client.pdb
